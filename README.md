@@ -7,7 +7,7 @@
 
 ## 快速开始 - 推荐的 ChatGPT 中文版服务：
 ChatGPT 中文版：[https://xsimplechat.com/](https://xsimplechat.com)   
-ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/) 
+ChatGPT 镜像网站：[https://chat.lanjingai.org/](https://chat.lanjingai.org/) 
 
 ---
 
