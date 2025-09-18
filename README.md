@@ -1,4 +1,4 @@
-# ChatGPT中文版：国内直连指南（支持GPT-4，GPT4o绘图，无需翻墙）【8月最新】
+<img width="943" height="365" alt="image" src="https://github.com/user-attachments/assets/1735a185-4000-4cf2-aeb7-befb868977e5" /># ChatGPT中文版：国内直连指南（支持GPT-4，GPT4o绘图，无需翻墙）【8月最新】
 
 > **更新时间：2025/08/06**             
 
@@ -7,7 +7,7 @@
 
 ## 快速开始 - 推荐的 ChatGPT 中文版服务：
 ChatGPT 中文版：[https://xsimplechat.com/](https://xsimplechat.com)   
-ChatGPT 镜像网站：[https://chat.lanjingai.org/](https://chat.lanjingai.org/) 
+ChatGPT 镜像网站：[https://ai.lanjingai.org/](https://ai.lanjingai.org/) 
 
 ---
 
